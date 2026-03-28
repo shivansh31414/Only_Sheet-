@@ -17,3 +17,15 @@ for (int i = k; i < n; i++) {
 
     return maxSum;
 }
+// Maximum Sum of Subarray of Size K
+// - Maximum Average of Subarray of Size K
+//  Maximum vowels in substring of size k
+//  - Types of Sliding Window
+//  - Longest substring without repeating character
+//  - Longest substring with k distinct characters
+//  - Identify Sliding window capability
+//  - Fruits into baskets
+//  - Minimum size subarray sum
+//  - Maximum Consecutive Ones
+//  - Components of Sliding Window
+//  - Identify sliding window opportunity
